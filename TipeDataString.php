@@ -6,7 +6,7 @@
 
 //double quote
     echo "Name : ";
-    echo "Ida\t Laela\t";
+    echo "nendra\t sakti\t";
 
 //multiline string
 // menggunakan \n sebagai enter
