@@ -15,6 +15,6 @@
     $$contoh = "Laela";
 
     echo "Ida : ";
-    echo $eko;
+    echo $contoh;
     echo "\n";
 ?>
