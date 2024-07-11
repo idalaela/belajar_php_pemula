@@ -1,10 +1,10 @@
 <?php
-    define("AUUTHOR", "Programmer Zaman Now");
     define("AUTHOR", "Programmer Zaman Now");
+
     define("APP_VERSION", 100);
 
     echo "Author : ";
-    echo "AUTHOR";
+    echo AUTHOR;
     echo "\n";
 
     echo "App Version : ";
