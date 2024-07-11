@@ -1,6 +1,6 @@
 <?php
     $name = "Ida"; 
-    $name = null;
+    $name = NULL;
 
     $age = null;
 
