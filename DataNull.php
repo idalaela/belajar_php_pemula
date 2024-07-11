@@ -23,4 +23,4 @@
     $example = "null";
 
     var_dump(isset($example));
-?>
+?> 
